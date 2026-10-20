@@ -1,0 +1,8 @@
+# 실제 시크릿은 커밋하지 않는다. 예시 파일(.env.example)만 올린다.
+.env
+.env.*
+!.env.example
+
+# OS / 편집기
+.DS_Store
+*.swp
